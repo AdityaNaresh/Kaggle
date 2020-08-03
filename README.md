@@ -1,3 +1,3 @@
 # Kaggle
 
-## Collections of all kernel I designed for Kaggle platform 
+## Collections of all kernel (notebooks) I designed for Kaggle platform
