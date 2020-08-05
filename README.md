@@ -10,3 +10,6 @@
 - ### 3. [Rock Paper Scissors](https://github.com/AdityaNaresh/Kaggle/tree/master/Rock%20Paper%20Scissors)
   - **(100% Accuracy)**
   - [Kaggle Notebook Link](https://www.kaggle.com/recursion17/rockpaperscissors-100-accuracy)
+- ### 3. [Intel Image Classification](https://github.com/AdityaNaresh/Kaggle/tree/master/Intel%20Image%20Classification)
+  - **(92% Accuracy)**
+  - [Kaggle Notebook Link](https://www.kaggle.com/recursion17/intel-image-classification-cnn-model-88-accuracy)
