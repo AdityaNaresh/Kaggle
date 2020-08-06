@@ -1,5 +1,5 @@
 # Intel Image Classification Dataset
-## Model Accuracy : 100% 
+## Model Accuracy : 92% 
 ####   CNN with several Optimizations 88% Accuracy
 ####   Transfer Learning from InceptionV3 92% Accuracy
 #####  (using tensorflow-gpu)
